@@ -1,0 +1,4 @@
+name,email,password,expectedResult
+First customer,customer@practicesoftwaretesting.com,welcome01,success
+Second customer,customer2@practicesoftwaretesting.com,welcome01,success
+Third customer,custom@test.com,pass1234,fail
