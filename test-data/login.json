@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Primary customer",
+    "email": "customer@practicesoftwaretesting.com",
+    "password": "welcome01",
+    "expectedHeading": "My account"
+  },
+  {
+    "name": "Second customer",
+    "email": "customer2@practicesoftwaretesting.com",
+    "password": "welcome01",
+    "expectedHeading": "My account"
+  },
+  {
+    "name": "Third customer",
+    "email": "customer3@practicesoftwaretesting.com",
+    "password": "pass123",
+    "expectedHeading": "My account"
+  }
+]
+
